@@ -1,0 +1,9 @@
+pandas
+sqlalchemy
+pyodbc
+sktime
+scikit-learn
+python-dotenv
+pmdarima
+prophet
+seaborn
